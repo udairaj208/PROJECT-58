@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  font-family:cursive;
+background:linear-gradient(lightblue,purple);
+ 
+}
+img{
+    width:20%;
+    height:20%;
+    border-radius:50%;
+    
+}
+hr{
+    height:6px;
+    width:200px;
+    margin:8px auto;
+    background-color: #FAFAFA;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 25px;
+    cursor: pointer;
+    color: fuchsia;
+    
+}
+.links{
+ text-decoration: underline
+.links:hover{
+    background-color: cyan;
+    text-decoration: bold;
+}
